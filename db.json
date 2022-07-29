@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn redux",
+      "status": false
+    },
+    {
+      "title": "sadf",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "sadf",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "asdfasdf",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
